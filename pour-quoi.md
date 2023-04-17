@@ -2,17 +2,6 @@
 layout: page
 ---
 
-## Pourquoi et pour quoi la Jungle ?
+## Pourquoi ?
 
-Dans la Jungle est le fruit d'une envie commune de travailler sur les questions **environnementales** et **humaines**, de certains lieux en ville.
-
-Ces lieux peuvent être de différents types : bars, restaurants, théâtres, espaces publics, librairie, cabinet dentaire, ateliers de menuiserie, etc.  
-Leur point commun ? Le souci d'offrir aux habitant.e.s et usager.e.s des espaces ouverts à tout.e.s non-oppressifs et soucieux de l'environnement.
-
-### Ce que la Jungle est
-
-Un outil collaboratif de **référencement** et **d'intéractions** avec les **lieux éco-friendly**.
-
-### Ce que la Jungle n'est pas
-
-Une plateforme à vocation touristique et commerciale.
+Pour créer un mouvement autour du thé. Un mouvement initié par des amateurs , pour des amateurs ou des personnes désireuses de découvrir cet univers. C'est l'occasion de se rencontrer dans la vrai vie et d'échanger autour d'une tasse de thé, sans idéologie ni arrière pensée, juste pour faire connaissance, pour découvrir la pratique d'une personne ou simplement faire une pause dans sa journée.

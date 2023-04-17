@@ -2,16 +2,27 @@
 layout: page
 ---
 
-## A qui s'adresse -dans la Jungle- ?
+## Pour qui ?
 
-Vous cherchez un·e garagiste et vous tombez sur Coralie, elle travaille dans un garage qui fait gaffe à l'environnement. Pour soigner ses embauche elle échange avec des associations d'insertion sensibles aux discriminations. Au garage Libre, ielles aiment les prix justes et soignent leurs interventions.  
-  
-Après une randonnée vous demandez de l'eau dans un café et tombé sur thierry. Il vous explique qu'il ne vends pas de bouteilles en plastique. Il remplit votre gourde avec sa machine à filtrer : eau plate ou gazeuse ?  
-  
-En dégustant une glace artisanale chez ses enfants, vous rencontrez Cathy. Elle n'a pas de commerce elle est auto-entrepreneuse, c'est une amoureuse du thé, elle vous fait découvrir des _cultivars_ du Laos, de Thaïlande et de Birmanie. C'est bleu, rouge, noir, blanc et bio.
+### Personnes qui accueille
 
-Lors de la conception de la Jungle, nous avons émis l'hypothèse qu'il n'était pas toujours évident de trouver des lieux éco-friendly.  
+- Vous buvez du thé nature de manière régulière, peu importe la date où vous avez commencé cette pratique, simplement vous avez à coeur d'ancrer cette pratique dans votre vie.
+- Vous êtes une personne plus ou moins familiarisée avec l'univers du thé et êtes désireuse d'étoffer vos connaissances dans ce domaine.
+- Le fait de boire du thé a du sens pour vous, quelqu'il soit.
+- Vous êtes disposé(e) à accueillir des personnes, en fonction de votre temps, et à partager avec eux une tasse de thé.
+- Vous possédez des ustensiles qui vous servent à préparer le thé de manière traditionnelle (sans sucre, nuage de lait ou rondelle de citron, sans sachet ni boule à thé...)
+- Vous avez un lieu plus ou moins dédié au thé, aussi simple soit il, pour accueillir les personnes.
+- Vous possédez du thé d'origine que vous êtes prêt(e) à partager.
+- Vous n'avez aucune ambition financière dans cette démarche.
+- 
+#### Personne de passage
+- Vous êtes amateur(trice) de thé et/ou désireux(se) de développer vos connaissances dans ce domaine.
+- Vous êtes en vacances, sur la route, ou vous disposez de temps dans votre ville.
+- Vous avez envie de partager un moment autour d'une tasse de thé.
+- Vous êtes prêt(e) à vous adapter à la pratique du thé de votre hôte sans vouloir la modifier de quelque manière que ce soit.
+- La bienveillance fait partie de vos valeurs.
 
-On imagine que -dans la jungle- s'adresse aux personnes de passages voyageant seules, aux stagiaires étranger.e.s ou issu.e.s d'une autre région, aux entrepreneur.e.s indépendant.e.s de l'économie collaborative.
 
-Dans la Jungle est une plateforme ouverte à tout.e.s celleux à la recherche de **lieux prévenants**, attentifs à leurs **impacts environnementaux** (éco-friendly).  
+## A qui s'adresse -Rdv thé- ?
+
+(toutdoux: expérience de vie)

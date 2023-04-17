@@ -3,7 +3,7 @@ layout: page
 ---
 {% include banner.html %}
 
-## Consulter les lieux prévenants
+## Personnes susceptibles d'accueillir
 
 {% include location-nav.html %}
 
@@ -11,15 +11,15 @@ layout: page
 
 - [Pour qui ?](/pour-qui)
 - [Pour quoi ?](/pour-quoi)
+- [Comment ?](/comment)
 
-## Qui sommes-nous ?
+## Informations
 
-- [Oisiflorus](/qui-sommes-nous)
+- [Qui sommes nous ?](/qui-sommes-nous)
 - [Nos valeurs](/nos-valeurs)
 - [Nous contacter](/nous-contacter)
 
 ## Divers
 
 - [Attentes collectives](/attentes-collectives)
-- [Nous rejoindre](/nous-rejoindre)
-- [Liens vers d'autres initiatives](/liens-autres-initiatives)
+- [S'inscrire](/s-inscrire)
