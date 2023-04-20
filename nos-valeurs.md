@@ -18,13 +18,15 @@ layout: page
 
 La bienveillance est le premier fondement.
 Bienveillance à l'égard de l'autre, de son environnement, de sa pratique, de son niveau de connaissance, de son histoire.
-Cette règle est fondamentale. Sans elle, le projet des pèlerins du thé n'a aucun sens.
+Cette règle est fondamentale. Sans elle, le projet des rendez-vous du thé n'a aucun sens.
 La bienveillance peut sembler abstraite, mais elle est soutenue par des piliers bien concrets : Le respect, l'ouverture d'esprit, l'absence de jugement.
-Bien sûr ces trois piliers représentent un idéal. L'idée n'est pas de les incarner totalement pour rentrer dans la démarche des pèlerins du thé, mais de vouloir sincèrement les développer dans notre propre vie.
+Bien sûr ces trois piliers représentent un idéal. L'idée n'est pas de les incarner totalement pour rentrer dans la démarche des rendez-vous du thé, mais de vouloir sincèrement les développer dans notre propre vie.
+Pour être pleinement active et efficace, nous devons nous assurer que ce que nous pensons être bienveillant, l'est également pour notre interlocuteur.
+Trouver un exemple
 
 ### La gratuité
 
 Que ce soit pour les initiateurs de ce projet, les hôtes ou les pèlerins, la démarche a pour vocation le partage et l'échange de manière gratuite (sans échange d'argent).
 Il se peut que parmi les hôtes et les pèlerins il y ai des professionnels du thé, des céramistes, des personnes qui tirent une rémunération d'une activité autour du thé.
-Dans le cadre d'une recontre par le biais du site des Pèlerins du thé, il n'est absolument pas question d'argent, ni d'essayer de vendre quoi que ce soit à la personne que nous rencontrons.
+Dans le cadre d'une recontre par le biais du site des rendez-vous du thé, il n'est absolument pas question d'argent, ni d'essayer de vendre quoi que ce soit à la personne que nous rencontrons.
 
