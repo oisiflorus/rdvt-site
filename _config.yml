@@ -1,5 +1,5 @@
 title: Rdv-thé
-remote_theme: oisiflorus/maquillage-danslajungle
+remote_theme: oisiflorus/maquillage-rdvt
 
 defaults:
   - scope:
@@ -8,7 +8,7 @@ defaults:
       layout: location
 
 collections:
-  vichy:
+  03-cusset:
     output: true
 
 plugins:

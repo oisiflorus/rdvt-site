@@ -18,6 +18,7 @@ layout: page
 - [Qui sommes nous ?](/qui-sommes-nous)
 - [Nos valeurs](/nos-valeurs)
 - [Nous contacter](/nous-contacter)
+- [Aide](/aide)
 
 ## Divers
 
