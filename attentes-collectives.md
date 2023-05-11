@@ -10,7 +10,7 @@ Dans les lieux que nous vous proposons, nous supposons que les hôtes sont intel
 
 Nous avons donc décidé de proposer des conseils qui permettent de faire en sorte que chacun·e se sente à l’aise.  
   
-Nous ne pouvons pas garantir que les lieux que nous proposons soient "sécurisé". Nous avons eu au moins un échange avec un·e responsable de chaque lieu et la personne semblait adhérer au principe de consentement et aux postures encouragées.
+Nous ne pouvons pas garantir que les lieux que nous proposons soient "sécurisé". Nous avons eu au moins une rencontre avec chaque personne qui se propose d'accueillir autour du thé et cette personne semblait adhérer au principe de consentement et aux postures encouragées.
 
 ### Pour quoi faire ?
 
@@ -34,7 +34,7 @@ Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante
 
 Avant toute chose, sachez que vous êtes légitime de dire que vous n’êtes pas à l’aise avec ce qui est en train de se passer. Vous serez pris·e au sérieux.
 
-- Vous êtes à l’aise, vous avez de l’énergie : nous vous invitons à signaler son comportement oppressif à la personne concernée et/ou aux responsables du lieu et/ou à [nous contacter](/nous-contacter)
+- Vous êtes à l’aise, vous avez de l’énergie : nous vous invitons à signaler son comportement oppressif à la personne concernée et/ou à [nous contacter](/nous-contacter)
 - Vous n’êtes pas à l’aise et/ou vous n’avez pas l’énergie :
   - vous pouvez en parler à une personne présente, en qui vous avez confiance
   - ou appelez un·e ami·e de confiance
@@ -54,7 +54,7 @@ Les options sont multiples et dépendent souvent du contexte et des personnes en
   - l’interpeller
   - vérifier qu’elle est disposée à échanger au sujet de la situation
     - si oui, lui demander de s’expliquer sur la situation
-    - sinon, lui proposer d’en reparler plus tard et/ou d’en faire part à l'[équipe Oisiflourus](/nous-contacter) ou/et aux responsables du lieu
+    - sinon, lui proposer d’en reparler plus tard et/ou de faire remonter l'information aux initiateurs du projet et aux administateurs du site
 
 Il s’agit évidemment d’une proposition non exhaustive qui ne tient pas compte des multiples contextes et personnes. Notre objectif est davantage de conseiller que d’imposer une méthode stricte.
 
